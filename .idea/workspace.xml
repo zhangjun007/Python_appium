@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Weeks5/generator.py" line="12" mnemonic="9" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="554d9861-c0d2-496e-9204-5623298fe70c" name="Default" comment="" />
+    <list default="true" id="554d9861-c0d2-496e-9204-5623298fe70c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_asyncio.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_bz2.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_ctypes.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_ctypes_test.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_decimal.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_elementtree.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_hashlib.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_lzma.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_msi.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_multiprocessing.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_overlapped.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_socket.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_sqlite3.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_ssl.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_testbuffer.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_testcapi.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_testconsole.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_testimportmultiple.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_testmultiphase.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/_tkinter.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/libcrypto-1_1-x64.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/libssl-1_1-x64.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.7.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pyexpat.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/python3.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/python37.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/select.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/sqlite3.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/tcl86t.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/tk86t.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/unicodedata.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/vcruntime140.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/winsound.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools.pth" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/tcl8.6/init.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/activate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7-script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip-script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.7-script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Try/Basic01.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Try/Basic02.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week1/elif.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week1/for guessage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week1/for.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week1/guessinfo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week1/if and else.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week1/import other pyfiles" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week1/while if guessage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week1/while.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week2/dic for.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week2/dic nested.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week2/dic.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week2/level 3 menu.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week2/list method.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week2/same by copy.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week2/shoopping alex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week2/shopping  jeffry.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week2/strings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/222" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/canshu of hanshu.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/files.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/monkey.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/全局变量.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/函数式编程.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/局部变量.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/递归.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/集合.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Weeks4/decorators.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Weeks4/嵌套函数.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Weeks4/装饰器常规套路.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Weeks4/装饰器案例剖析1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Weeks4/装饰器练习之TCL门禁系统.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Weeks4/装饰器终极高潮.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Weeks4/高阶函数.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Weeks5/generator.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/MyPython.iml" afterPath="$PROJECT_DIR$/.idea/MyPython.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,46 +104,57 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/MyPython$for.coverage" NAME="for Coverage Results" MODIFIED="1508743799482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
+    <SUITE FILE_PATH="coverage/MyPython$TCL.coverage" NAME="装饰器练习之TCL门禁系统 Coverage Results" MODIFIED="1575008914549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks4" />
     <SUITE FILE_PATH="coverage/MyPython$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1508487675055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
+    <SUITE FILE_PATH="coverage/MyPython$guessinfo.coverage" NAME="guessinfo Coverage Results" MODIFIED="1517819016473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
+    <SUITE FILE_PATH="coverage/MyPython$element_wait02.coverage" NAME="element_wait02 Coverage Results" MODIFIED="1578920790776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Appium" />
+    <SUITE FILE_PATH="coverage/MyPython$shoppingcart.coverage" NAME="shoppingcart Coverage Results" MODIFIED="1508924461741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
+    <SUITE FILE_PATH="coverage/MyPython$Unittests_for__test3.coverage" NAME="Unittests for 函数的参数.test3 Coverage Results" MODIFIED="1534916130099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3" />
+    <SUITE FILE_PATH="coverage/MyPython$hello_Appium.coverage" NAME="hello_Appium Coverage Results" MODIFIED="1578635178959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Appium" />
+    <SUITE FILE_PATH="coverage/MyPython$while.coverage" NAME="while Coverage Results" MODIFIED="1517820238703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
+    <SUITE FILE_PATH="coverage/MyPython$py_test_for_decorator_test1.coverage" NAME="py.test for decorator.test1 Coverage Results" MODIFIED="1536040610703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks4" />
+    <SUITE FILE_PATH="coverage/MyPython$dic_nested.coverage" NAME="dic nested Coverage Results" MODIFIED="1511421274055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
+    <SUITE FILE_PATH="coverage/MyPython$for_guessage.coverage" NAME="for guessage Coverage Results" MODIFIED="1544065389610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
+    <SUITE FILE_PATH="coverage/MyPython$decorators.coverage" NAME="decorators Coverage Results" MODIFIED="1557037562224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks4" />
+    <SUITE FILE_PATH="coverage/MyPython$id_class_xpath02.coverage" NAME="id_class_xpath02 Coverage Results" MODIFIED="1578906856952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Appium" />
+    <SUITE FILE_PATH="coverage/MyPython$import_other_pyfiles.coverage" NAME="import other pyfiles Coverage Results" MODIFIED="1508489272251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
+    <SUITE FILE_PATH="coverage/MyPython$element_operate.coverage" NAME="element operate Coverage Results" MODIFIED="1578988355068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Appium" />
+    <SUITE FILE_PATH="coverage/MyPython$dic_for.coverage" NAME="dic for Coverage Results" MODIFIED="1544075286023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
+    <SUITE FILE_PATH="coverage/MyPython$py_test_in_decorator_py.coverage" NAME="py.test in decorator.py Coverage Results" MODIFIED="1536040451013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks4" />
+    <SUITE FILE_PATH="coverage/MyPython$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1536040732364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks4" />
+    <SUITE FILE_PATH="coverage/MyPython$element_attribute.coverage" NAME="element_attribute Coverage Results" MODIFIED="1578991142181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Appium" />
+    <SUITE FILE_PATH="coverage/MyPython$files.coverage" NAME="files Coverage Results" MODIFIED="1534905479687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3" />
+    <SUITE FILE_PATH="coverage/MyPython$import.coverage" NAME="import Coverage Results" MODIFIED="1508489118885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
+    <SUITE FILE_PATH="coverage/MyPython$level_3_menu.coverage" NAME="level 3 menu Coverage Results" MODIFIED="1534144745053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
+    <SUITE FILE_PATH="coverage/MyPython$Basic_exercise.coverage" NAME="Basic exercise Coverage Results" MODIFIED="1551339078231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Try" />
+    <SUITE FILE_PATH="coverage/MyPython$132.coverage" NAME="132 Coverage Results" MODIFIED="1526902280377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3" />
+    <SUITE FILE_PATH="coverage/MyPython$for.coverage" NAME="for Coverage Results" MODIFIED="1508743799482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
     <SUITE FILE_PATH="coverage/MyPython$test.coverage" NAME="test Coverage Results" MODIFIED="1517905767332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/学习文件/Python/第02周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第二周-源码/源码" />
     <SUITE FILE_PATH="coverage/MyPython$while_if_guessage.coverage" NAME="while if guessage Coverage Results" MODIFIED="1508740493661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
-    <SUITE FILE_PATH="coverage/MyPython$guessinfo.coverage" NAME="guessinfo Coverage Results" MODIFIED="1517819016473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
     <SUITE FILE_PATH="coverage/MyPython$Unittests_in__py.coverage" NAME="Unittests in 函数式编程.py Coverage Results" MODIFIED="1534145408034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3" />
     <SUITE FILE_PATH="coverage/MyPython$_py.coverage" NAME="函数式编程.py Coverage Results" MODIFIED="1534145328607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3" />
     <SUITE FILE_PATH="coverage/MyPython$shoopping_alex.coverage" NAME="shoopping alex Coverage Results" MODIFIED="1522222672339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
     <SUITE FILE_PATH="coverage/MyPython$Basic02.coverage" NAME="Basic02 Coverage Results" MODIFIED="1551341478201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Try" />
     <SUITE FILE_PATH="coverage/MyPython$list_method.coverage" NAME="list method Coverage Results" MODIFIED="1521786159645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
-    <SUITE FILE_PATH="coverage/MyPython$shoppingcart.coverage" NAME="shoppingcart Coverage Results" MODIFIED="1508924461741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
-    <SUITE FILE_PATH="coverage/MyPython$Unittests_for__test3.coverage" NAME="Unittests for 函数的参数.test3 Coverage Results" MODIFIED="1534916130099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3" />
-    <SUITE FILE_PATH="coverage/MyPython$while.coverage" NAME="while Coverage Results" MODIFIED="1517820238703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
-    <SUITE FILE_PATH="coverage/MyPython$py_test_for_decorator_test1.coverage" NAME="py.test for decorator.test1 Coverage Results" MODIFIED="1536040610703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks4" />
+    <SUITE FILE_PATH="coverage/MyPython$id_class_xpath01.coverage" NAME="id_class_xpath01 Coverage Results" MODIFIED="1578895038753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Appium" />
+    <SUITE FILE_PATH="coverage/MyPython$element_wait.coverage" NAME="element_wait Coverage Results" MODIFIED="1578919008454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Appium" />
     <SUITE FILE_PATH="coverage/MyPython$strings.coverage" NAME="strings Coverage Results" MODIFIED="1509018489383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
-    <SUITE FILE_PATH="coverage/MyPython$dic_nested.coverage" NAME="dic nested Coverage Results" MODIFIED="1511421274055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
     <SUITE FILE_PATH="coverage/MyPython$shopping__jeffry.coverage" NAME="shopping  jeffry Coverage Results" MODIFIED="1522222689611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
     <SUITE FILE_PATH="coverage/MyPython$same_by_copy.coverage" NAME="same by copy Coverage Results" MODIFIED="1508834567509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
-    <SUITE FILE_PATH="coverage/MyPython$for_guessage.coverage" NAME="for guessage Coverage Results" MODIFIED="1544065389610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
-    <SUITE FILE_PATH="coverage/MyPython$decorators.coverage" NAME="decorators Coverage Results" MODIFIED="1557037562224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks4" />
+    <SUITE FILE_PATH="coverage/MyPython$random_number_str.coverage" NAME="random_number_str Coverage Results" MODIFIED="1578982736140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Appium" />
     <SUITE FILE_PATH="coverage/MyPython$if_and_else.coverage" NAME="if and else Coverage Results" MODIFIED="1557399721842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
     <SUITE FILE_PATH="coverage/MyPython$shopcopy.coverage" NAME="shopcopy Coverage Results" MODIFIED="1508916266004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
-    <SUITE FILE_PATH="coverage/MyPython$import_other_pyfiles.coverage" NAME="import other pyfiles Coverage Results" MODIFIED="1508489272251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
-    <SUITE FILE_PATH="coverage/MyPython$dic_for.coverage" NAME="dic for Coverage Results" MODIFIED="1544075286023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
+    <SUITE FILE_PATH="coverage/MyPython$apkinstall.coverage" NAME="apkinstall Coverage Results" MODIFIED="1578636129541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Appium" />
     <SUITE FILE_PATH="coverage/MyPython$2.coverage" NAME="装饰器案例剖析2 Coverage Results" MODIFIED="1557194805552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks4" />
-    <SUITE FILE_PATH="coverage/MyPython$py_test_in_decorator_py.coverage" NAME="py.test in decorator.py Coverage Results" MODIFIED="1536040451013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks4" />
     <SUITE FILE_PATH="coverage/MyPython$listmath.coverage" NAME="listmath Coverage Results" MODIFIED="1508829450694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
-    <SUITE FILE_PATH="coverage/MyPython$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1536040732364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks4" />
     <SUITE FILE_PATH="coverage/MyPython$generator.coverage" NAME="generator Coverage Results" MODIFIED="1559221704719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks5" />
+    <SUITE FILE_PATH="coverage/MyPython$backgroundapp.coverage" NAME="backgroundapp Coverage Results" MODIFIED="1578637073227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Appium" />
     <SUITE FILE_PATH="coverage/MyPython$3level_menus.coverage" NAME="3level_menus Coverage Results" MODIFIED="1517806019624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/学习文件/Python/第02周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第二周-源码/源码" />
-    <SUITE FILE_PATH="coverage/MyPython$files.coverage" NAME="files Coverage Results" MODIFIED="1534905479687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3" />
     <SUITE FILE_PATH="coverage/MyPython$.coverage" NAME="列表生成器 Coverage Results" MODIFIED="1559219521825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks5" />
     <SUITE FILE_PATH="coverage/MyPython$dic.coverage" NAME="dic Coverage Results" MODIFIED="1511343184931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
     <SUITE FILE_PATH="coverage/MyPython$elif.coverage" NAME="elif Coverage Results" MODIFIED="1544065225209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
-    <SUITE FILE_PATH="coverage/MyPython$import.coverage" NAME="import Coverage Results" MODIFIED="1508489118885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
     <SUITE FILE_PATH="coverage/MyPython$canshu_of_hanshu.coverage" NAME="canshu of hanshu Coverage Results" MODIFIED="1534927776891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3" />
-    <SUITE FILE_PATH="coverage/MyPython$level_3_menu.coverage" NAME="level 3 menu Coverage Results" MODIFIED="1534144745053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
-    <SUITE FILE_PATH="coverage/MyPython$Basic_exercise.coverage" NAME="Basic exercise Coverage Results" MODIFIED="1551339078231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Try" />
     <SUITE FILE_PATH="coverage/MyPython$guess.coverage" NAME="guess任性玩 Coverage Results" MODIFIED="1508738901670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/学习文件/Python/第01周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第一周-源码/源码" />
-    <SUITE FILE_PATH="coverage/MyPython$132.coverage" NAME="132 Coverage Results" MODIFIED="1526902280377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -69,42 +171,84 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="装饰器终极高潮.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Weeks4/装饰器终极高潮.py">
+      <file leaf-file-name="element_wait01.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Appium/element_wait01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="60" lean-forward="false" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+            <state relative-caret-position="437">
+              <caret line="23" column="26" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="23" selection-end-column="26" />
+              <folding>
+                <element signature="e#85#113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="element_operate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Appium/element_operate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="e#85#113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="element_attribute.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Appium/element_attribute.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="27" column="26" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="27" selection-end-column="26" />
+              <folding>
+                <element signature="e#85#113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="screen_operater.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_Appium/screen_operater.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#85#113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="random_number_str.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Appium/random_number_str.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="装饰器练习之TCL门禁系统.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Weeks4/装饰器练习之TCL门禁系统.py">
+      <file leaf-file-name="backgroundapp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Appium/backgroundapp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="61" lean-forward="true" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
-              <folding />
+            <state relative-caret-position="-74">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#85#113#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generator.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Weeks5/generator.py">
+      <file leaf-file-name="element_wait02.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Appium/element_wait02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="553">
-              <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="高阶函数.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Weeks4/高阶函数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="477">
+              <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+              <folding>
+                <element signature="e#86#114#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,23 +262,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Python_Appium/element_wait01.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Python_Appium/element_wait02.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Week1/for.py" />
-        <option value="$PROJECT_DIR$/Week2/三元运算.py" />
-        <option value="$PROJECT_DIR$/Week2/listmath.py" />
-        <option value="$PROJECT_DIR$/Week2/same by copy.py" />
-        <option value="$PROJECT_DIR$/Week2/shopcopy、.py" />
-        <option value="$PROJECT_DIR$/Week2/shopcopy.py" />
-        <option value="$PROJECT_DIR$/Week2/shoppingcart.py" />
-        <option value="$PROJECT_DIR$/Week2/shopping  jeffry.py" />
-        <option value="$PROJECT_DIR$/Week2/strings.py" />
-        <option value="$PROJECT_DIR$/Week2/dic 嵌套.py" />
-        <option value="$PROJECT_DIR$/Week2/dic.py" />
-        <option value="$PROJECT_DIR$/Week2/dic nested.py" />
-        <option value="$PROJECT_DIR$/Week2/dic for.py" />
-        <option value="F:/学习文件/Python/第02周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第二周-源码/源码/3level_menus.py" />
         <option value="$PROJECT_DIR$/Week2/level 3 menu.py" />
         <option value="$PROJECT_DIR$/Week1/while if guessage.py" />
         <option value="$PROJECT_DIR$/Week1/while.py" />
@@ -167,11 +307,25 @@
         <option value="$PROJECT_DIR$/Weeks4/装饰器终极高潮.py" />
         <option value="$PROJECT_DIR$/Week1/if and else.py" />
         <option value="$PROJECT_DIR$/Weeks4/装饰器练习.py" />
-        <option value="$PROJECT_DIR$/Weeks4/装饰器练习之TCL门禁系统.py" />
         <option value="$PROJECT_DIR$/Weeks5/列表生成式.py" />
         <option value="$PROJECT_DIR$/Weeks5/列表生成器.py" />
         <option value="$PROJECT_DIR$/Weeks4/高阶函数.py" />
         <option value="$PROJECT_DIR$/Weeks5/generator.py" />
+        <option value="$PROJECT_DIR$/Weeks4/装饰器练习之TCL门禁系统.py" />
+        <option value="$PROJECT_DIR$/Python_Appium/test.py" />
+        <option value="$PROJECT_DIR$/Python_Appium/hello_Appium.py" />
+        <option value="$PROJECT_DIR$/Python_Appium/apkinstall.py" />
+        <option value="$PROJECT_DIR$/Python_Appium/backgroundapp.py" />
+        <option value="$PROJECT_DIR$/Python_Appium/cold_hot_start.py" />
+        <option value="$PROJECT_DIR$/Python_Appium/id_class_xpath01.py" />
+        <option value="$PROJECT_DIR$/Python_Appium/id_class_xpath02.py" />
+        <option value="$PROJECT_DIR$/Python_Appium/element_wait.py" />
+        <option value="$PROJECT_DIR$/Python_Appium/element_wait02.py" />
+        <option value="$PROJECT_DIR$/Python_Appium/element_wait01.py" />
+        <option value="$PROJECT_DIR$/Python_Appium/random_number_str.py" />
+        <option value="$PROJECT_DIR$/Python_Appium/element operate.py" />
+        <option value="$PROJECT_DIR$/Python_Appium/element_attribute.py" />
+        <option value="$PROJECT_DIR$/Python_Appium/screen_operater.py" />
       </list>
     </option>
   </component>
@@ -186,6 +340,10 @@
     <option name="y" value="-8" />
     <option name="width" value="1616" />
     <option name="height" value="876" />
+  </component>
+  <component name="ProjectId" id="1UHKKLVHIFsB0xdmuKGVXkq1U0B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
@@ -202,6 +360,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Extensions" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.intellij.database" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyPsiNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -255,89 +431,17 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Weeks5">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="MyPython">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Weeks4">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="MyPython">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="MyPython">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Week2">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="MyPython">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Week1">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Extensions" />
-              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.intellij.database" />
-              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyPsiNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="F:/Download/ChromeDownload/python-adb-master/python-adb-master/adb" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -358,97 +462,97 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.generator">
-    <configuration default="false" name="装饰器练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.element_attribute">
+    <configuration default="false" name="element_wait" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Weeks4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Appium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MyPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PycharmProjects\MyPython\Weeks4\装饰器练习之TCL门禁系统.py" />
+      <option name="SCRIPT_NAME" value="D:\PycharmProjects\MyPython\Python_Appium\element_wait01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="装饰器终极高潮" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="element_wait02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Weeks4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Appium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MyPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weeks4/装饰器终极高潮.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Appium/element_wait02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="if and else" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="element operate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Appium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MyPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week1/if and else.py" />
+      <option name="SCRIPT_NAME" value="D:\PycharmProjects\MyPython\Python_Appium\element_operate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="列表生成器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="random_number_str" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Weeks5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Appium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MyPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PycharmProjects\MyPython\Weeks5\generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Appium/random_number_str.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="element_attribute" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Weeks5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Appium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MyPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weeks5/generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Appium/element_attribute.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -620,21 +724,31 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.装饰器练习" />
-      <item index="1" class="java.lang.String" itemvalue="Python.装饰器终极高潮" />
-      <item index="2" class="java.lang.String" itemvalue="Python.if and else" />
-      <item index="3" class="java.lang.String" itemvalue="Python.列表生成器" />
-      <item index="4" class="java.lang.String" itemvalue="Python.generator" />
+      <item index="0" class="java.lang.String" itemvalue="Python.element_wait" />
+      <item index="1" class="java.lang.String" itemvalue="Python.element_wait02" />
+      <item index="2" class="java.lang.String" itemvalue="Python.element operate" />
+      <item index="3" class="java.lang.String" itemvalue="Python.random_number_str" />
+      <item index="4" class="java.lang.String" itemvalue="Python.element_attribute" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.generator" />
-        <item index="1" class="java.lang.String" itemvalue="Python.列表生成器" />
-        <item index="2" class="java.lang.String" itemvalue="Python.装饰器练习" />
-        <item index="3" class="java.lang.String" itemvalue="Python.if and else" />
-        <item index="4" class="java.lang.String" itemvalue="Python.装饰器终极高潮" />
+        <item index="0" class="java.lang.String" itemvalue="Python.element_attribute" />
+        <item index="1" class="java.lang.String" itemvalue="Python.element operate" />
+        <item index="2" class="java.lang.String" itemvalue="Python.random_number_str" />
+        <item index="3" class="java.lang.String" itemvalue="Python.element_wait02" />
+        <item index="4" class="java.lang.String" itemvalue="Python.element_wait" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -650,39 +764,22 @@
       <option name="presentableId" value="Default" />
       <updated>1508394567852</updated>
     </task>
+    <task id="LOCAL-00001" summary="元素操作、元素等待、元素属性值获取的脚本学习和编写">
+      <created>1578991593972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578991593972</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Python_appium的基础学习元素操作、元素等待、元素属性值获取的脚本学习和编写">
+      <created>1578999153568</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578999153568</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="py_test_for_decorator_test1 - 2018.09.04 at 13h 56m 50s.xml">
-      <configuration name="py.test for decorator.test1" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_decorator_py - 2018.09.04 at 13h 51m 43s.xml">
-      <configuration name="py.test in decorator.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_decorator_py - 2018.09.04 at 13h 53m 04s.xml">
-      <configuration name="py.test in decorator.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_decorator_py - 2018.09.04 at 13h 54m 11s.xml">
-      <configuration name="py.test in decorator.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="函数式编程_py - 2018.08.13 at 15h 19m 24s.xml">
-      <configuration name="函数式编程.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="函数式编程_py - 2018.08.13 at 15h 20m 54s.xml">
-      <configuration name="函数式编程.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="函数式编程_py - 2018.08.13 at 15h 23m 10s.xml">
-      <configuration name="函数式编程.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="函数式编程_py - 2018.08.13 at 15h 24m 05s.xml">
-      <configuration name="函数式编程.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="函数式编程_py - 2018.08.13 at 15h 26m 27s.xml">
-      <configuration name="函数式编程.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="函数式编程_py - 2018.08.13 at 15h 28m 48s.xml">
-      <configuration name="函数式编程.py" configurationId="tests" />
-    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -694,16 +791,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20539153" sideWeight="0.8956885" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22336328" sideWeight="0.8956885" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.255911" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17385258" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.072322674" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3085554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26703754" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17715019" sideWeight="0.10431154" order="2" side_tool="true" content_ui="tabs" />
@@ -717,12 +813,38 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.255911" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3085554" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32398316" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2182285" sideWeight="0.8956885" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17715019" sideWeight="0.10431154" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="元素操作、元素等待、元素属性值获取的脚本学习和编写" />
+    <MESSAGE value="Python_appium的基础学习元素操作、元素等待、元素属性值获取的脚本学习和编写" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python_appium的基础学习元素操作、元素等待、元素属性值获取的脚本学习和编写" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -731,61 +853,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://F:/学习文件/Python/第02周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第二周-源码/源码/3level_menus.py" />
-    <entry file="file://F:/学习文件/Python/第02周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第二周-源码/源码/dictionary.py" />
-    <entry file="file://F:/学习文件/Python/第02周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第二周-源码/源码/names.py" />
-    <entry file="file://F:/学习文件/Python/第02周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第二周-源码/源码/shopping.py" />
-    <entry file="file://F:/学习文件/Python/第02周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第二周-源码/源码/string.py" />
-    <entry file="file://F:/学习文件/Python/第02周-Python3.5-零基础-高级-项目实战最新教程-共14章节/第二周-源码/源码/test.py" />
-    <entry file="file://$PROJECT_DIR$/Week2/same by copy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/while if guessage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/import other pyfiles">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/guessinfo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week2/strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week2/list method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week2/shoopping alex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-848">
@@ -814,13 +881,6 @@
     <entry file="file://$PROJECT_DIR$/Weeks4/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Weeks4/decorator.py" />
     <entry file="file://$PROJECT_DIR$/Weeks4/函数的作用域.py" />
-    <entry file="file://$PROJECT_DIR$/Week1/elif.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week1/for guessage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -856,20 +916,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Try/Basic01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Try/Basic02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week3/全局变量.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -885,27 +931,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Weeks4/装饰器案例剖析2.py" />
-    <entry file="file://$PROJECT_DIR$/Weeks4/嵌套函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/BaiduNetdiskDownload/第04周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第四周-源码/源码/代码/decorator高潮版.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Weeks4/装饰器常规套路.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://G:/BaiduNetdiskDownload/第04周-Python3.5-零基础-高级-项目实战最新教程-共18章节/第四周-源码/源码/代码/decorator高潮版.py" />
     <entry file="file://$PROJECT_DIR$/Weeks4/装饰器案例剖析1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -980,7 +1006,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="60" lean-forward="false" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -988,22 +1013,170 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weeks4/装饰器练习之TCL门禁系统.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weeks4/装饰器常规套路.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Appium/cold_hot_start.py" />
+    <entry file="file://$PROJECT_DIR$/Week1/elif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Appium/apkinstall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weeks4/嵌套函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Appium/hello_Appium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#87#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Appium/id_class_xpath01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="31" column="61" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="61" />
+          <folding>
+            <element signature="e#85#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Appium/id_class_xpath02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#85#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Appium/element_wait02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+          <folding>
+            <element signature="e#86#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Appium/element_wait01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="26" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="e#85#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Appium/random_number_str.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Appium/backgroundapp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-74">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#85#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Appium/element_operate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#85#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Appium/element_attribute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="27" column="26" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="27" selection-end-column="26" />
+          <folding>
+            <element signature="e#85#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Appium/screen_operater.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#85#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Try/Basic01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Try/Basic02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-501">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Weeks5/generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Weeks4/装饰器练习之TCL门禁系统.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="61" lean-forward="true" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+        <state relative-caret-position="171">
+          <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
           <folding />
         </state>
       </provider>
