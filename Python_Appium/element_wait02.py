@@ -25,11 +25,13 @@ time.sleep(3)
 #显示等待  有异常
 
 print("-----begin find")
-wait = WebDriverWait(driver,20,2)  #显示等待调用此方法
 
-wait.until(lambda x:x.find_element_by_xpath("//*[@resource-id='com.tcl.live:id/tv_download']"))
+#显示等待 调用driver对象，在xx时间内，每间隔xx秒进行寻找某些操作
+WebDriverWait(driver,20,2).until(lambda x:x.find_element_by_xpath("//*[@resource-id='com.tcl.live:id/tv_download']"))
 
-button.click
+#以上示例中 WebDriverWait(driver,x,x)  ， until(lambda x:x.find_element_by_xx("xxx")都是固定格式
+
+#显示等待适合某一特定操作，且适用于局域方法，非全局。
 
 time.sleep(3)
 
